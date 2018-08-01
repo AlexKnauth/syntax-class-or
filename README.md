@@ -2,6 +2,8 @@
 
 Combining a list of variants into one syntax class.
 
+Documentation: https://docs.racket-lang.org/syntax-class-or/index.html
+
 ```racket
 (require syntax/parse/syntax-class-or)
 ```
